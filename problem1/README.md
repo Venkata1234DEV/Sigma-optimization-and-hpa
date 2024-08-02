@@ -9,9 +9,11 @@ This script (`script.sh`) automates the optimization and configuration of Docker
 - Docker installed on Ubuntu 22.04
 - Docker containers labeled `com.a2odev.app=sigma`
 
+- 
 ## Instructions
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Venkata1234DEV/Sigma-optimization-and-hpa.git
+   cd Sigma-optimization-and-hpa/problem1
+
