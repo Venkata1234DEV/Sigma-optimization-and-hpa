@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # HorizontalPodAutoscaler (HPA) Implementation Guide
 
 ## What is HorizontalPodAutoscaler (HPA)?
